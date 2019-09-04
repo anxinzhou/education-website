@@ -2849,53 +2849,53 @@ footer .footer_bottom .copyright a {
   font-weight: 800;
   font-size: 42px;
   line-height: 48px;
-  margin-bottom: 15px;
+  margin-bottom: 5px;
   margin-top: 0;
-  color: #404d5f;
+  color: white;
 }
 .bannercontainer .main_slider li .para {
   font-family: 'Karla', sans-serif;
   font-size: 16px;
   line-height: 24px;
-  color: #8595b1;
+  color: white;
 }
 .bannercontainer .main_slider li .link a {
   color: #fff;
 }
+
 .bannercontainer .main_slider li.first-slide .heading {
   top: 160px;
 }
 .bannercontainer .main_slider li.first-slide .para {
-  top: 270px;
+  top: 230px;
 }
 .bannercontainer .main_slider li.first-slide .link {
-  top: 330px;
+  top: 270px;
 }
+
 .bannercontainer .main_slider li.second-slide .heading {
-  top: 410px;
+  top: 210px;
 }
 .bannercontainer .main_slider li.second-slide .para {
-  top: 520px;
+  top: 270px;
 }
 .bannercontainer .main_slider li.second-slide .link {
-  top: 570px;
+  top: 420px;
 }
-.bannercontainer .main_slider li.third-slide {
-  text-align: center;
-}
+
 .bannercontainer .main_slider li.third-slide .heading {
   top: 410px;
-  left: 296px;
+  /*margin: auto;*/
 }
 .bannercontainer .main_slider li.third-slide .para {
   top: 520px;
-  left: 378px;
+  /*left: 378px;*/
 }
 .bannercontainer .main_slider li.third-slide .link {
   top: 570px;
-  left: 491px;
+  /*left: 491px;*/
 }
-/*----------------------------------------------------------------*/
+----------------------------------------------------------------
 
 
 /*Service Tab*/

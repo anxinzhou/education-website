@@ -7,7 +7,7 @@ $(document).ready(function(){
     (function($) {
         "use strict";
         // your code
-        
+
     /*----------------------------------------------------*/
     /*  Main Slider
     /*----------------------------------------------------*/
@@ -39,16 +39,63 @@ $(document).ready(function(){
             hideThumbs:0,
             hideTimerBar:"on",
 
-            keyboardNavigation:"on",
+            // keyboardNavigation:"on",
 
-            navigationType:"none",
+            // navigationType:"none",
             navigationArrows:"none",
             navigationStyle:"round-old",
-
-            navigationHAlign:"center",
+            navigationHAlign:"right",
             navigationVAlign:"bottom",
             navigationHOffset:30,
             navigationVOffset:30,
+
+            // navigation: {
+            //     keyboardNavigation: "off",
+            //     keyboard_direction: "horizontal",
+            //     mouseScrollNavigation: "off",
+            //     onHoverStop: "on",
+            //     touch: {
+            //         touchenabled: "off",
+            //         touchOnDesktop: "off",
+            //         swipe_treshold: 75,
+            //         swipe_min_touches: 1,
+            //         drag_block_vertical: !1,
+            //         swipe_direction: "horizontal"
+            //     },
+            //     // arrows: {
+            //     //     style: "",
+            //     //     enable: false,
+            //     //     hide_onmobile: !1,
+            //     //     hide_onleave: !0,
+            //     //     hide_delay: 200,
+            //     //     hide_delay_mobile: 1200,
+            //     //     hide_under: 0,
+            //     //     hide_over: 9999,
+            //     //     tmp: "",
+            //     //     rtl: !1,
+            //     //     left: {h_align: "left", v_align: "center", h_offset: 20, v_offset: 0, container: "slider"},
+            //     //     right: {h_align: "right", v_align: "center", h_offset: 20, v_offset: 0, container: "slider"}
+            //     // },
+            //     bullets: {
+            //         container: "slider",
+            //         rtl: !1,
+            //         style: "",
+            //         enable: true,
+            //         hide_onmobile: !1,
+            //         hide_onleave: !0,
+            //         hide_delay: 200,
+            //         hide_delay_mobile: 1200,
+            //         hide_under: 0,
+            //         hide_over: 9999,
+            //         direction: "horizontal",
+            //         h_align: "right",
+            //         v_align: "right",
+            //         space: 0,
+            //         h_offset: 20,
+            //         v_offset: 0,
+            //         tmp: '<span class="tp-bullet-image"></span><span class="tp-bullet-title"></span>'
+            //     },
+            // },
 
             soloArrowLeftHalign:"left",
             soloArrowLeftValign:"bottom",
@@ -93,8 +140,8 @@ $(document).ready(function(){
 
             shadow:0
         })
-    
-    
-        
+
+
+
     })(jQuery)
 })
