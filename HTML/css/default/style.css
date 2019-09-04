@@ -27,7 +27,7 @@
  14. Sidebar
  15. Blog
  16. Case
- 18. Successive Processes 
+ 18. Successive Processes
  19. Marketing App
  20. Tweets
  21. Slider
@@ -1168,7 +1168,7 @@ button:hover {
 /*----------------------------------------------------------------*/
 .service_block_row {
   padding: 90px 0 60px;
-  background: #fff;
+  background: #f4f9ff;
 }
 .service_block {
   text-align: center;
@@ -1276,7 +1276,7 @@ button:hover {
 }
 /*----------------------------------------------------------------*/
 .recentpost_acc {
-  background: #e5f0fb;
+  background: #f4f9ff;
 }
 .recentpost_acc.recentpost_acc2 .recent_post_home {
   padding-top: 90px;
@@ -1457,10 +1457,10 @@ button:hover {
   border: 1px solid #fff;
 }
 .about_medicalpro_N_form {
-  background: #f4f9ff;
+  background: #ffffff;
 }
 .about_medicalpro_N_form .container_area {
-  background: url(../../images/pages/about/about3.png) no-repeat scroll 434px bottom transparent;
+
 }
 .about_medicalpro_N_form .container_area .trusted_area {
   padding: 80px 0 85px;
@@ -1489,7 +1489,7 @@ button:hover {
 }
 .about_medicalpro_N_form .container_area .trusted_area ul li {
   padding-left: 22px;
-  background: url(../../images/bullet.png) no-repeat scroll 0 0 transparent;
+  /*background: url(../../images/bullet.png) no-repeat scroll 0 0 transparent;*/
   font-family: 'Lato', sans-serif;
   font-weight: bold;
   font-size: 16px;
@@ -1734,7 +1734,13 @@ button:hover {
   font-size: 16px;
   line-height: 1;
   font-weight: 400;
+  height: 60px;
 }
+
+.team_section_type2 .team_member .description {
+  height: 100px;
+}
+
 .team_section_type2 .team_member p {
   font-size: 16px;
   font-family: 'Karla', sans-serif;
@@ -1742,6 +1748,7 @@ button:hover {
   color: #8595b1;
   margin-bottom: 30px;
 }
+
 /*----------------------------------------------------------------*/
 .book_banner {
   background: #fe824c;
@@ -1855,7 +1862,7 @@ button:hover {
 }
 /*----------------------------------------------------------------*/
 footer {
-  padding: 64px 0 84px;
+  padding: 20px 0 0 0px;
     background: #404d5f;
 }
 footer .heading {
@@ -1947,7 +1954,8 @@ footer .newsletter_form2 {
   margin-top: -20px;
 }
 footer .footer_bottom {
-  margin-top: 35px;
+  margin-top: 0px;
+  margin-bottom: 10px;
 }
 footer .footer_bottom ul li {
   padding: 0;
@@ -2067,7 +2075,7 @@ footer .footer_bottom .copyright a {
 }
 /*----------------------------------------------------------------*/
 .testimonial_section {
-  background: url(../../images/pages/testimonial/1.png) no-repeat scroll right bottom #e0eeff;
+  /*background: url(../../images/pages/testimonial/1.png) no-repeat scroll right bottom #e0eeff;*/
   padding-top: 90px;
   padding-bottom: 90px;
   height: 741px;
@@ -2081,7 +2089,7 @@ footer .footer_bottom .copyright a {
   height: 100%;
   left: 0;
   top: 0;
-  background: #e0eeff;
+  background: #f4f9ff;
 }
 .testimonial_section .inner {
   position: relative;
@@ -2901,7 +2909,7 @@ footer .footer_bottom .copyright a {
     padding: 0 15px;
     text-align: center;
 }
-.service_tab #service_tab li a{    
+.service_tab #service_tab li a{
     border: 1px solid  #e5f0fb;
     border-radius: 0;
     padding: 0 5px 20px;

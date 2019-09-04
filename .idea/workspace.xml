@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="396a3093-a771-4309-8ffb-a884e409a317" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/HTML/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/images/pages/about/aboutus.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/images/slider/homepage1/home1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/images/slider/homepage1/home2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/images/slider/homepage1/home3.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/css/default/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/css/default/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/home.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,25 +21,40 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HTML/images/call-now.png">
-          <provider selected="true" editor-type-id="images" />
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HTML/home.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="63">
+              <caret line="231" column="32" selection-start-line="231" selection-start-column="32" selection-end-line="231" selection-end-column="32" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#1;n#a#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#a#0;n#div#0;n#div#1;n#div#1;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#a#0;n#div#0;n#div#2;n#div#1;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#a#0;n#div#0;n#div#3;n#div#1;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HTML/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="277">
-              <caret line="71" column="33" lean-forward="true" selection-end-line="914" selection-end-column="7" />
+            <state relative-caret-position="120">
+              <caret line="439" column="14" lean-forward="true" selection-start-line="385" selection-start-column="4" selection-end-line="439" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/HTML/home.html">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HTML/images/icons/about/minus.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HTML/css/default/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="123" column="47" selection-start-line="123" selection-start-column="47" selection-end-line="123" selection-end-column="47" />
+            <state relative-caret-position="47">
+              <caret line="1168" column="14" selection-start-line="1168" selection-start-column="1" selection-end-line="1168" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -42,13 +62,47 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HTML/index2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-10025">
-              <caret line="81" column="62" lean-forward="true" selection-start-line="81" selection-start-column="62" selection-end-line="81" selection-end-column="62" />
+            <state relative-caret-position="131">
+              <caret line="626" column="14" lean-forward="true" selection-start-line="532" selection-start-column="4" selection-end-line="626" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>sign up</find>
+      <find>experi</find>
+      <find>核心</find>
+      <find>.pos</find>
+      <find>核心团队</find>
+      <find>footer</find>
+      <find>bottom</find>
+      <find>testimo</find>
+      <find>copy</find>
+      <find>background-image</find>
+      <find>testimonial/1.png</find>
+      <find>testimonial_slider</find>
+      <find>bgf</find>
+      <find>about</find>
+      <find>service_block_row</find>
+      <find>service</find>
+      <find>#f4f9ff</find>
+      <find>recentpost_acc</find>
+      <find>recentpost_acc2</find>
+      <find>#e0eeff</find>
+      <find>team_section_type2</find>
+      <find>about_medicalpro_N_form</find>
+      <find>what pe</find>
+      <find>aboutus.</find>
+      <find>responsi</find>
+      <find>trusted_area</find>
+      <find>实现教育创始人</find>
+      <find>recent</find>
+      <find>pos</find>
+      <find>service_block</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -56,13 +110,15 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/HTML/doctors.html" />
+        <option value="$PROJECT_DIR$/HTML/css/default/style.css" />
         <option value="$PROJECT_DIR$/HTML/home.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="74" />
-    <option name="y" value="242" />
+    <option name="y" value="74" />
     <option name="width" value="1606" />
     <option name="height" value="976" />
   </component>
@@ -92,7 +148,27 @@
               <item name="education-website" type="b2602c69:ProjectViewProjectNode" />
               <item name="education-website" type="462c0819:PsiDirectoryNode" />
               <item name="HTML" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="education-website" type="b2602c69:ProjectViewProjectNode" />
+              <item name="education-website" type="462c0819:PsiDirectoryNode" />
+              <item name="HTML" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="default" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="education-website" type="b2602c69:ProjectViewProjectNode" />
+              <item name="education-website" type="462c0819:PsiDirectoryNode" />
+              <item name="HTML" type="462c0819:PsiDirectoryNode" />
               <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="education-website" type="b2602c69:ProjectViewProjectNode" />
+              <item name="education-website" type="462c0819:PsiDirectoryNode" />
+              <item name="HTML" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -107,6 +183,13 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/HTML/images/pages/about" />
+      <recent name="$PROJECT_DIR$/HTML/images/pages" />
+      <recent name="$PROJECT_DIR$/HTML/images/slider/homepage1" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -130,19 +213,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1567468222595</updated>
-      <workItem from="1567468225151" duration="1023000" />
+      <workItem from="1567468225151" duration="18635000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1023000" />
+    <option name="totallyTimeSpent" value="18635000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="74" y="239" width="1606" height="976" extended-state="0" />
+    <frame x="74" y="74" width="1606" height="976" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24984227" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21198738" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
@@ -167,27 +250,83 @@
     <entry file="file://$PROJECT_DIR$/HTML/images/bullet.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/images/slider/homepage1/1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/HTML/images/call-now.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/doctors.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="161" column="80" selection-start-line="161" selection-start-column="80" selection-end-line="161" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/images/pages/testimonial/page_intro.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/images/pages/testimonial/1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/images/pages/testimonial/2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/images/pages/testimonial/3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/images/icons/envelope.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/images/icons/service_block/1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/images/icons/service_block/2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/images/icons/about/plus2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/images/icons/about/plus.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/images/pages/about/about.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/HTML/index2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-10025">
-          <caret line="81" column="62" lean-forward="true" selection-start-line="81" selection-start-column="62" selection-end-line="81" selection-end-column="62" />
+        <state relative-caret-position="131">
+          <caret line="626" column="14" lean-forward="true" selection-start-line="532" selection-start-column="4" selection-end-line="626" selection-end-column="14" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/images/icons/about/minus.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/HTML/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="71" column="33" lean-forward="true" selection-end-line="914" selection-end-column="7" />
+        <state relative-caret-position="120">
+          <caret line="439" column="14" lean-forward="true" selection-start-line="385" selection-start-column="4" selection-end-line="439" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/css/default/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="47">
+          <caret line="1168" column="14" selection-start-line="1168" selection-start-column="1" selection-end-line="1168" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/HTML/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="123" column="47" selection-start-line="123" selection-start-column="47" selection-end-line="123" selection-end-column="47" />
+        <state relative-caret-position="63">
+          <caret line="231" column="32" selection-start-line="231" selection-start-column="32" selection-end-line="231" selection-end-column="32" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#a#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#a#0;n#div#0;n#div#1;n#div#1;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#a#0;n#div#0;n#div#2;n#div#1;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#a#0;n#div#0;n#div#3;n#div#1;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
