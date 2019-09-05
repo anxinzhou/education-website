@@ -10,7 +10,7 @@ $(document).ready(function(){
 
     /*----------------------------------------------------*/
     /*  Main Slider
-    /*----------------------------------------------------*/
+    /*---------------------------------------------------*/
         jQuery('.main_slider').revolution({
             delay:5000,
             startwidth:960,
@@ -48,6 +48,7 @@ $(document).ready(function(){
             navigationVAlign:"bottom",
             navigationHOffset:30,
             navigationVOffset:30,
+
             soloArrowLeftHalign:"left",
             soloArrowLeftValign:"bottom",
             soloArrowLeftHOffset:0,
