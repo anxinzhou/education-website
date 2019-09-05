@@ -32,7 +32,7 @@ $(document).ready(function(){
 
             hideThumbsOnMobile:"off",
             hideNavDelayOnMobile:1500,
-            hideBulletsOnMobile:"on",
+            hideBulletsOnMobile:"off",
             hideArrowsOnMobile:"off",
             hideThumbsUnderResoluition:0,
 
