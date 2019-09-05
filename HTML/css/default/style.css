@@ -2867,33 +2867,32 @@ footer .footer_bottom .copyright a {
   top: 160px;
 }
 .bannercontainer .main_slider li.first-slide .para {
-  top: 230px;
+  top: 250px;
 }
 .bannercontainer .main_slider li.first-slide .link {
-  top: 270px;
+  top: 300px;
 }
 
 .bannercontainer .main_slider li.second-slide .heading {
-  top: 210px;
+  top: 310px;
 }
 .bannercontainer .main_slider li.second-slide .para {
-  top: 270px;
+  top: 370px;
 }
 .bannercontainer .main_slider li.second-slide .link {
-  top: 420px;
+  top: 500px;
 }
 
 .bannercontainer .main_slider li.third-slide .heading {
-  top: 410px;
+  top: 350px;
   /*margin: auto;*/
 }
 .bannercontainer .main_slider li.third-slide .para {
-  top: 520px;
+  top: 460px;
   /*left: 378px;*/
 }
 .bannercontainer .main_slider li.third-slide .link {
-  top: 570px;
-  /*left: 491px;*/
+  top: 510px;
 }
 ----------------------------------------------------------------
 
