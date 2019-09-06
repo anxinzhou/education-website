@@ -14,11 +14,10 @@ $(document).ready(function(){
             rules: {
                 contact_fname: {
                     required: true,
-                    minlength: 2
+                    // minlength: 2
                 },
                 contact_lname: {
                     required: true,
-                    minlength: 2
                 },
                 contact_femail: {
                     required: true,
@@ -26,7 +25,7 @@ $(document).ready(function(){
                 },
                 contact_fmsg: {
                     required: true,
-                    minlength: 10
+                    maxlength: 1000,
                 },
                 contact_fsc_hidden: {
                     required: true
@@ -38,23 +37,24 @@ $(document).ready(function(){
             },
             messages: {
                 contact_fname: {
-                    required: "come on, you have a name don't you?",
-                    minlength: "your name must consist of at least 2 characters"
+                    required: "请输入您的姓",
+                    // minlength: "your name must consist of at least 2 characters"
                 },
                 contact_lname: {
-                    required: "come on, you have a name don't you?",
-                    minlength: "your name must consist of at least 2 characters"
+                    required: "请输入您的名",
+                    // minlength: "your name must consist of at least 2 characters"
                 },
                 contact_femail: {
-                    required: "no email, no message"
+                    required: "请输入您的邮箱"
                 },
                 contact_fmsg: {
-                    required: "um...yea, you have to write something to send this form.",
-                    minlength: "thats all? really?"
+                    required: "请输入您的留言",
+                    maxlength: "请勿提交超过1000个字符，如有需要可以用其他方式联系我们"
+                    // minlength: "thats all? really?"
                 },
                 contact_fsc: {
-                    required: "type captcha text in small letter!",
-                    minlength: "thats all? really?"
+                    required: "请输入验证码",
+                    // minlength: "thats all? really?"
                 }
             },
             submitHandler: function(form) {
