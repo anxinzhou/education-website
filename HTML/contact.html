@@ -53,7 +53,7 @@
     <nav class="navbar navbar-default navbar-static-top navbar2" >
         <div class="container">
              <!--Brand and toggle get grouped for better mobile display-->
-            <div class="navbar-header" style="position: relative; z-index: 9999;">
+            <div class="navbar-header">
                 <!--<a class="navbar-brand" href="index.html"><img src="images/logo/3.png" alt=""></a>-->
                 <a class="navbar-brand" href="index.html">LOGO</a>
                 <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#main_nav" aria-expanded="false">
@@ -68,18 +68,13 @@
             <div class="collapse navbar-collapse" id="main_nav" style="position: relative; z-index: 9999;">
                 <ul class="nav navbar-nav navbar-right">
                     <li><a href="index.html">首页</a></li>
-                    <li><a href="index.html">公司介绍</a></li>
-                    <li><a href="application.html">留学申请</a></li>
+                    <li><a href="about.html">关于我们</a></li>
+                    <li><a href="hk-abroad.html">香港留学</a></li>
+                    <li><a href="other-abroad.html">海外留学</a></li>
                     <li><a href="promoting.html">背景提升</a></li>
                     <li><a href="train.html">综合培训</a></li>
-                    <li><a href="team.html">顾问团队</a></li>
-                    <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">经验分享</a>
-                        <ul class="dropdown-menu" role="menu">
-                            <li><a href="index.html">经验分享</a></li>
-                            <li><a href="index.html">成功案例</a></li>
-                        </ul>
-                    </li>
+                     <li><a href="persist-service.html">持续服务</a></li>
+                     <li><a href="experience-sharing.html">经验分享</a></li>
                     <li><a href="contact.html">联系我们</a></li>
                     <!--<li class="hidden-xs book"><a href="#" data-toggle="modal" data-target="#appointmefnt_form_pop">book appointment</a></li>-->
                 </ul>
@@ -96,7 +91,7 @@
             </div>
         </div>
     </section>
-    
+
     <section class="row contact_form_row">
         <div class="container">
             <div class="row">
@@ -121,6 +116,69 @@
         </div>
     </section>
 
+    <section class="row contact_form_row">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12 contact_form_area">
+                    <h3 class="contact_section_title">给我们留言</h3>
+                    <div class="contactForm row m0">
+                        <form action="contact_process.php" class="row contact_form" id="contactForm">
+                            <div class="row m0">
+                                <div class="col-sm-6">
+                                    <div class="input-group">
+                                        <label for="contact_fname">名</label>
+                                        <input type="text" class="form-control" id="contact_fname" name="contact_fname">
+                                    </div>
+                                    <div class="input-group">
+                                        <label for="contact_femail">邮箱</label>
+                                        <input type="email" class="form-control" id="contact_femail" name="contact_femail">
+                                    </div>
+                                </div>
+                                <div class="col-sm-6">
+                                    <div class="input-group">
+                                        <label for="contact_lname">姓</label>
+                                        <input type="text" class="form-control" id="contact_lname" name="contact_lname">
+                                    </div>
+                                    <div class="input-group">
+                                        <label for="contact_fphone">手机号码</label>
+                                        <input type="tel" class="form-control" id="contact_fphone" name="contact_fphone">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row m0">
+                                <div class="col-sm-12">
+                                    <label for="contact_fmsg">留言</label>
+                                    <textarea name="contact_fmsg" id="contact_fmsg" class="form-control"></textarea>
+                                </div>
+                            </div>
+                            <div class="row m0 security_captcha">
+                                <div class="col-sm-12">
+                                    <div class="fleft security_label"><label for="contact_fsc">验证码</label></div>
+                                    <div class="fleft security_captcha_input"><input type="text" class="form-control" id="contact_fsc" name="contact_fsc"><input type="text" value="1v0h92" class="hidden" id="contact_fsc_hidden"></div>
+                                    <div class="fleft security_img"><img src="images/captcha.png" alt=""></div>
+                                </div>
+                            </div>
+                            <div class="row m0">
+                                <div class="col-sm-12">
+                                    <input type="submit" class="submit_btn" value="提交">
+                                </div>
+                            </div>
+                        </form>
+                        <div id="success">
+                            <span class="green textcenter">
+                                TODO
+                            </span>
+                        </div>
+                        <div id="error">
+                            <span>
+                                TODO
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
     
 <footer class="row" style=" position:fixed; bottom: 0px; width: 100%;">
     <div class="container">
