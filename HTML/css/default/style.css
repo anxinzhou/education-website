@@ -3058,3 +3058,38 @@ footer .footer_bottom .copyright a {
   flex-wrap: wrap;
 }
 
+.service_block_row .nav-item {
+   /*padding-left: 100px;*/
+    /*border-bottom: #2b669a;*/
+}
+
+.service_block_row .nav-tabs > li{
+    float:none;
+    display:inline-block;
+    *display:inline;
+     zoom:1;
+  text-align:center;
+  border-top: 4px solid transparent;
+  font-family: 'Lato', sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.service_block_row .nav-tabs > li >a {
+    /*border: 0;*/
+  color: #333333;
+}
+
+.service_block_row .nav-tabs > li >a:focus {
+
+}
+
+/*.service_block_row .nav-tabs > li:hover{*/
+/*    border-bottom: 0;*/
+/*  border-bottom: 4px solid #fbcdcf;*/
+/*}*/
+
+.service_block_row .nav-tabs > li:active{
+  border: 0;
+  /*border-top: 4px solid #f3565d;*/
+}
