@@ -56,26 +56,6 @@ $(document).ready(function(){
                     required: "请输入验证码",
                     // minlength: "thats all? really?"
                 }
-            },
-            submitHandler: function(form) {
-                $(form).ajaxSubmit({
-                    type:"POST",
-                    data: $(form).serialize(),
-                    url:"contact_process.php",
-                    success: function() {
-                        $('#contactForm :input').attr('disabled', 'disabled');
-                        $('#contactForm').fadeTo( "slow", 0.15, function() {
-                            $(this).find(':input').attr('disabled', 'disabled');
-                            $(this).find('label').css('cursor','default');
-                            $('#success').fadeIn();
-                        })
-                    },
-                    error: function() {
-                        $('#contactForm').fadeTo( "slow", 0.15, function() {
-                            $('#error').fadeIn();
-                        })
-                    }
-                })
             }
         })
     })

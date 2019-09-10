@@ -1172,3 +1172,55 @@ function log() {
 }
 
 })(jQuery);
+
+
+// <section class="row contact_form_row">
+//         <div class="container">
+//             <div class="row m0 titleRow" style="margin-bottom: 40px;">
+//                 <h2>现在联系我们</h2>
+//             </div>
+//             <div class="row box center-block" style="justify-content: center;">
+//                 <div class="col-sm-5" style="border-style: solid; border-width: 3px; border-color: #7e8e96">
+//                     <div class="contactForm row m0" style="padding: 50px 20px 50px 20px">
+//                         <form action="https://formspree.io/zax851609410@gmail.com" class="row contact_form"  method="POST">
+//                             <div class="row m0">
+//                                 <div class="col-sm-6">
+//                                     <div class="input-group">
+//                                         <label for="contact_fname">名</label>
+//                                         <input type="text" class="form-control" id="contact_fname" name="name">
+//                                     </div>
+//                                     <div class="input-group">
+//                                         <label for="contact_femail">邮箱</label>
+//                                         <input type="email" class="form-control" id="contact_femail" name="name">
+//                                     </div>
+//                                 </div>
+//                                 <div class="col-sm-6">
+//                                     <div class="input-group">
+//                                         <label for="contact_lname">姓</label>
+//                                         <input type="text" class="form-control" id="contact_lname" name="name">
+//                                     </div>
+//                                     <div class="input-group">
+//                                         <label for="contact_fphone">手机号码</label>
+//                                         <input type="tel" class="form-control" id="contact_fphone" name="name">
+//                                     </div>
+//                                 </div>
+//                             </div>
+//                             <div class="row m0">
+//                                 <div class="col-sm-12">
+//                                     <label for="contact_fmsg">留言</label>
+//                                     <textarea name="name" id="contact_fmsg" class="form-control"></textarea>
+//                                 </div>
+//                             </div>
+//
+//                             <div class="row m0">
+//                                 <div class="col-sm-12">
+//                                     <input type="submit" class="submit_btn" value="提交">
+//                                 </div>
+//                             </div>
+//                         </form>
+//
+//                     </div>
+//                 </div>
+//             </div>
+//         </div>
+//     </section>

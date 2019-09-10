@@ -551,11 +551,11 @@
           </section>
 
 
-<section class="row book_bannerType2" style="background-color: #00A8FF;">
+<section class="row book_bannerType2" style="background-color: #00A8FF;" >
         <div class="container">
             <div class="row m0">
                 <h2>我们将竭诚为您服务</h2>
-                <a href="contact.html" data-toggle="modal" data-target="#appointmefnt_form_pop" class="view_all">开始预约</a>
+                <a href="appointmefnt_form_pop" data-toggle="modal" data-target="#appointmefnt_form_pop" class="view_all">开始预约</a>
             </div>
         </div>
     </section>
@@ -584,9 +584,47 @@ xxxxxxxx@mail.com
 </div>
 </div>
 </div>
-</div>
     </section>
 
+<div class="modal fade" id="appointmefnt_form_pop" tabindex="-1" role="dialog" aria-labelledby="appointmefnt_form_pop">
+        <div class="modal-dialog modal-sm" role="document">
+            <div class="modal-content">
+                <form action="https://formspree.io/zax851609410@gmail.com" method="POST"  class="row m0 appointment_home_form2">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <i class="fa fa-times-circle-o"></i>
+                        </button>
+                        <h2 class="title">联系我们</h2>
+                        <div class="form_inputs row m0">
+                            <div class="row m0 input_row">
+                                <div class="col-sm-12 col-md-12 col-lg-6 p0">
+                                    <label for="app_fname">姓</label>
+                                    <input type="text" class="form-control" id="app_fname" placeholder="" name="name">
+                                </div>
+                                <div class="col-sm-12 col-md-12 col-lg-6 p0">
+                                    <label for="app_lname">名</label>
+                                    <input type="text" class="form-control" id="app_lname" placeholder="" name="name">
+                                </div>
+                            </div>
+                            <div class="row m0 input_row">
+                                <label for="app_email">邮箱</label>
+                                <input type="email" class="form-control" id="app_email" placeholder="" name="name">
+                            </div>
+                            <div class="row m0 input_row">
+                                <label for="app_phone">手机号码</label>
+                                <input type="tel" class="form-control" id="app_phone" placeholder="" name="name">
+                            </div>
+
+                            <div class="row m0 input_row">
+                                <label for="app_texts">留言</label>
+                                <textarea  id="app_texts" class="form-control" placeholder="" name="name"></textarea>
+                            </div>
+                            <input type="submit" class="form-control" value="提交">
+                        </div>
+
+                    </form>
+            </div>
+        </div>
+    </div>
 
 
 
