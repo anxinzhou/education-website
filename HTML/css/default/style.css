@@ -3078,24 +3078,24 @@ footer .footer_bottom .copyright a {
 }
 
 .service_block_row .nav-tabs > li >a {
-    /*border: 0;*/
+    border: 0;
   color: #333333;
+  border-bottom: 1px;
 }
 
-.service_block_row .nav-tabs > li >a:focus {
-
+.service_block_row .nav-tabs>li.active>a {
+  border: none;
+  border-bottom: 4px solid;
 }
 
+.service_block_row .nav-tabs>li.active> a:focus {
+  border: none;
+  border-bottom: 4px solid;
+}
 /*.service_block_row .nav-tabs > li:hover{*/
 /*    border-bottom: 0;*/
 /*  border-bottom: 4px solid #fbcdcf;*/
 /*}*/
-
-.service_block_row .nav-tabs > li:active{
-  border: 0;
-  /*border-top: 4px solid #f3565d;*/
-}
-
 .application_flow .nav-tabs >li {
   float:none;
   display:inline-block;
