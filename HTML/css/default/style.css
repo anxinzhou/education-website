@@ -3296,7 +3296,7 @@ footer .footer_bottom .copyright a {
 
   /* written by riliwan balogun http://www.facebook.com/riliwan.rabo*/
   .board{
-      width: 75%;
+      width: 80%;
   margin: 60px auto;
   height: 500px;
   background: #fff;
@@ -3313,7 +3313,7 @@ footer .footer_bottom .copyright a {
   }
 
    .board .nav-tabs > li {
-      width: 20%;
+      width: 15%;
 
 
      float:none;
@@ -3322,7 +3322,7 @@ footer .footer_bottom .copyright a {
   }
 
   .board > div.board-inner{
-      background: #fafafa url(http://subtlepatterns.com/patterns/geometry2.png);
+      /*background: #fafafa url(http://subtlepatterns.com/patterns/geometry2.png);*/
       background-size: 30%;
   }
 
