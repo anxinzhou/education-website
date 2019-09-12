@@ -3492,9 +3492,15 @@ footer .footer_bottom .copyright a {
   }
 
 
+    @media( max-width : 800px ){
+.service-img {
+  height: 800px;
+}
 
   @media( max-width : 585px ){
-
+.service-img {
+  height: 900px;
+}
       .board {
   width: 100%;
   height:auto !important;
