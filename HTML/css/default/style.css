@@ -472,6 +472,7 @@ button:hover {
 /*----------------------------------------------------------------*/
 .titleRow {
   color: #404d5f;
+  font-size: 2em;
   text-align: center;
   margin-bottom: 30px;
   text-transform: uppercase;
@@ -2901,7 +2902,7 @@ footer .footer_bottom .copyright a {
   top: 370px;
 }
 .bannercontainer .main_slider li.second-slide .link {
-  top: 500px;
+  top: 570px;
 }
 
 .bannercontainer .main_slider li.third-slide .heading {
@@ -2913,7 +2914,7 @@ footer .footer_bottom .copyright a {
   /*left: 378px;*/
 }
 .bannercontainer .main_slider li.third-slide .link {
-  top: 510px;
+  top: 550px;
 }
 ----------------------------------------------------------------
 
@@ -3246,6 +3247,11 @@ footer .footer_bottom .copyright a {
 .timeline-title {
   margin-top: 0;
   color: inherit;
+  font-size: 1.5em;
+}
+
+.timeline-body {
+  font-size: 1.2em;
 }
 
 .timeline-body > p,
@@ -3492,9 +3498,17 @@ footer .footer_bottom .copyright a {
   }
 
 
-    @media( max-width : 800px ){
-.service-img {
-  height: 800px;
+    @media( max-width : 800px ) {
+      .service-img {
+        height: 800px;
+      }
+    }
+
+.brand-intro .description {
+  margin-top: 60px;
+  font-size: 1.8em;
+  color: #444444;
+  font-weight: 400;
 }
 
   @media( max-width : 585px ){
@@ -3529,6 +3543,7 @@ footer .footer_bottom .copyright a {
   .board .btn-outline-rounded {
       padding:12px 20px;
       }
-  }
-
-
+  .brand-intro .description {
+  font-size: 1.5em;
+}
+}
