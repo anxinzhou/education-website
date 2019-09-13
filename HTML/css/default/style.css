@@ -3497,12 +3497,27 @@ footer .footer_bottom .copyright a {
       color: #ffffff;
   }
 
+.service-img {
+        height: 750px;
+      }
 
-    @media( max-width : 800px ) {
+    @media( max-width : 674px ) {
       .service-img {
+        height: 1000px;
+      }
+
+    }
+
+      @media( max-width : 1004px ) {
+      .belief-img {
         height: 800px;
       }
     }
+
+       @media( max-width : 585px ){
+.belief-img {
+  height: 900px;
+}
 
 .brand-intro .description {
   margin-top: 60px;
@@ -3513,7 +3528,7 @@ footer .footer_bottom .copyright a {
 
   @media( max-width : 585px ){
 .service-img {
-  height: 900px;
+  height: 1100px;
 }
       .board {
   width: 100%;
