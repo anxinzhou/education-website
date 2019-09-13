@@ -3514,10 +3514,11 @@ footer .footer_bottom .copyright a {
       }
     }
 
-       @media( max-width : 585px ){
-.belief-img {
-  height: 900px;
-}
+       @media( max-width : 585px ) {
+         .belief-img {
+           height: 900px;
+         }
+       }
 
 .brand-intro .description {
   margin-top: 60px;
