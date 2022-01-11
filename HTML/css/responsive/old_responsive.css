@@ -180,7 +180,7 @@
     -ms-transform: scale(1, 1);
     transform: scale(1, 1);
     display: none;
-    background: #43b9f6;
+    background: #E83828;
   }
   .default .navbar #main_nav .nav li.dropdown.open .dropdown-menu {
     display: block;

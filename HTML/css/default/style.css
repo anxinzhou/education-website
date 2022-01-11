@@ -164,7 +164,7 @@ button:hover {
 }
 .default .navbar #main_nav .nav li.dropdown .dropdown-menu {
   border-radius: 0;
-  padding: 20px 30px;
+  padding: 0px 30px;
   border: none;
   background: none;
   display: block;
@@ -343,7 +343,7 @@ button:hover {
 .form_top_part {
   width: 430px;
   padding: 40px 40px 0;
-  background: #43b9f6;
+  background: #E83828;
 }
 .form_top_part h2 {
   font-family: 'Lato', sans-serif;
@@ -919,7 +919,7 @@ button:hover {
 }
 .other_services .services_list i {
   margin-right: 13px;
-  color: #43b9f6;
+  color: #E83828;
 }
 .other_services .services_list a {
   font-family: 'Lato', sans-serif;
@@ -927,7 +927,7 @@ button:hover {
   color: #404d5f;
 }
 .other_services .services_list a:hover {
-  color: #43b9f6;
+  color: #E83828;
 }
 .social_list {
   list-style: none;
@@ -1271,7 +1271,7 @@ button:hover {
 }
 .serviceDetailsSection .post_list li i {
   margin-right: 12px;
-  color: #43b9f6;
+  color: #E83828;
 }
 .serviceDetailsSection .book_btn {
   font-family: 'Karla', sans-serif;
@@ -1361,7 +1361,7 @@ button:hover {
   margin-top: 30px;
 }
 .recent_post .inner .postText {
-  background: #43b9f6;
+  background: #E83828;
   font-family: 'Lato', sans-serif;
   font-style: italic;
   font-size: 18px;
@@ -1800,7 +1800,7 @@ button:hover {
   line-height: 1;
 }
 .book_bannerType2 {
-  background: #43b9f6;
+  background: #E83828;
   text-align: center;
   padding: 55px 0 50px;
   color: #fff;
@@ -2071,7 +2071,7 @@ footer .footer_bottom .copyright a {
   width: 0;
 }
 .quick_block.emmergency .inner {
-  background: url(../../images/pages/quick-blocks/1.png) no-repeat scroll right bottom #43b9f6;
+  background: url(../../images/pages/quick-blocks/1.png) no-repeat scroll right bottom #E83828;
 }
 .quick_block.branches .inner {
   background: url(../../images/pages/quick-blocks/2.png) no-repeat scroll right bottom #6686ff;
@@ -2298,7 +2298,7 @@ footer .footer_bottom .copyright a {
 }
 .blog .meta a:last-child {
   margin-right: 0;
-  color: #43b9f6;
+  color: #E83828;
 }
 .blog .meta a:hover {
   color: #0186d5;
@@ -2840,7 +2840,7 @@ footer .footer_bottom .copyright a {
   background: #fe824c;
 }
 .timeTable tbody tr td.cancer {
-  background: #43b9f6;
+  background: #E83828;
 }
 .timeTable tbody tr td.bgf {
   background: #fff;
@@ -3014,7 +3014,7 @@ footer .footer_bottom .copyright a {
     display: block;
     padding: 0 20px;
     line-height: 38px;
-    background: #43b9f6;
+    background: #E83828;
     font-family: 'Lato', sans-serif;
     font-weight: bold;
     color: #fff;
