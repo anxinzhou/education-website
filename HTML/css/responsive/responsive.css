@@ -99,7 +99,7 @@
     }
     .default.home .navbar{
         height: auto;
-        background: #0186d5;
+        background: #EA3828;
         padding-top: 0;
     }
     .default .navbar .navbar-header{
@@ -119,7 +119,7 @@
       font-size: 33px;
   }
   .default.home .navbar .navbar-header button, .default.home3 .navbar .navbar-header button {
-    background: #0186d5;
+    background: #EA3828;
     padding: 0 0;
     color: #fff;
     line-height: 40px;
@@ -134,7 +134,7 @@
       width: 33px;
       margin: 0;
       height: 3px;
-      background: #0186d5;
+      background: #EA3828;
   }
   .default.home .navbar .navbar-header button .icon-bar,.default.home3 .navbar .navbar-header button .icon-bar{
       width: 33px;
@@ -169,7 +169,7 @@
       padding: 0;
   }
   .default .navbar #main_nav {
-    background: #0186d5;
+    background: #EA3828;
     border: none;
   }
   .default .navbar #main_nav .nav li.dropdown a {
@@ -201,7 +201,7 @@
 @media (max-width: 559px) {
 /*
   .default .navbar {
-    background: #0186d5;
+    background: #EA3828;
     height: auto;
   }
   .default .navbar .navbar-header button {
@@ -282,7 +282,7 @@
         padding: 0 0 20px 0;
     }
   .form_bottom_part_row {
-    background: #0186d5;
+    background: #EA3828;
   }
   .form_bottom_part {
     padding: 20px 8px;

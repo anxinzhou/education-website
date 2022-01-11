@@ -89,6 +89,7 @@ button:hover {
   padding: 16px 0;
   line-height: 20px;
   color: #7184a5;
+  /*color:#E83828;*/
   font-family: 'Lato', sans-serif;
   font-weight: 300;
 }
@@ -167,7 +168,8 @@ button:hover {
   border: none;
   background: none;
   display: block;
-  background: #0186d5;
+  /*background: #EA3828;*/
+  background: #E83828;
   -webkit-transform: scale(1, 0);
   -ms-transform: scale(1, 0);
   transform: scale(1, 0);
@@ -203,7 +205,7 @@ button:hover {
 }
 .default .navbar #main_nav .nav li.dropdown:hover a {
   color: #fff;
-  background: #0186d5;
+  background: #EA3828;
 }
 .default .navbar #main_nav .nav li.dropdown:hover ul {
   -webkit-transform: scale(1, 1);
@@ -221,7 +223,7 @@ button:hover {
   margin-left: 15px;
 }
 .default .navbar #main_nav .nav li.book a:hover {
-  background: #0186d5;
+  background: #EA3828;
 }
 .default .navbar.navbar2 {
   background: #fff;
@@ -263,7 +265,7 @@ button:hover {
   line-height: 48px;
 }
 .default .navbar.navbar3 {
-  background: #0186d5;
+  background: #EA3828;
   height: auto;
   padding-top: 0;
   margin-bottom: 0;
@@ -449,12 +451,12 @@ button:hover {
 }
 .form_row .col-sm-3 button:hover,
 .form_row .col-sm-3 button:focus {
-  background: #0186d5;
+  background: #EA3828;
 }
 .form_bottom_part {
   width: 430px;
   padding: 28px 34px;
-  background: #0186d5;
+  background: #EA3828;
   margin-bottom: 0;
 }
 .form_bottom_part a {
@@ -494,7 +496,7 @@ button:hover {
   content: '';
   width: 85px;
   height: 1px;
-  background: #0186d5;
+  background: #EA3828;
   display: block;
   margin: 10px auto 0;
 }
@@ -548,7 +550,7 @@ button:hover {
   margin-right: 25px;
 }
 .accordion .panel .panel-heading h4 a[aria-expanded="true"] {
-  background: #0186d5;
+  background: #EA3828;
   color: #fff;
 }
 .accordion .panel .panel-heading h4 a[aria-expanded="true"] .sign {
@@ -581,7 +583,7 @@ button:hover {
   border-top: none;
 }
 .accordion.white_bg .panel .panel-heading h4 a {
-  background: #0186d5;
+  background: #EA3828;
   color: #fff;
   line-height: 1.2;
   padding: 17px 75px 17px 30px;
@@ -611,7 +613,7 @@ button:hover {
   margin-top: 20px;
 }
 .view_all:hover {
-  background: #0186d5;
+  background: #EA3828;
   color: #fff;
 }
 .content_section.row {
@@ -664,7 +666,7 @@ button:hover {
   color: #828fa8;
 }
 .search_form .input-group input:focus {
-  background: #0186d5;
+  background: #EA3828;
   color: #fff;
 }
 .search_form .input-group input:focus::-moz-placeholder {
@@ -686,7 +688,7 @@ button:hover {
 .search_form .input-group span button {
   width: 67px;
   line-height: 48px;
-  background: #0186d5;
+  background: #EA3828;
   font-family: 'Lato', sans-serif;
   color: #fff;
   text-transform: uppercase;
@@ -763,7 +765,7 @@ button:hover {
 }
 .tags.widget .tag:hover {
   color: #fff;
-  background: #0186d5;
+  background: #EA3828;
 }
 .tags {
   font-family: 'Lato', sans-serif;
@@ -798,12 +800,12 @@ button:hover {
   margin-right: 5px;
 }
 .paginationRow .pagination li a:hover {
-  background: #0186d5;
+  background: #EA3828;
   color: #fff;
 }
 .paginationRow .pagination li.active a {
   color: #fff;
-  background: #0186d5;
+  background: #EA3828;
 }
 .related {
   font-family: 'Lato', sans-serif;
@@ -885,7 +887,7 @@ button:hover {
   content: '';
   width: 85px;
   height: 1px;
-  background: #0186d5;
+  background: #EA3828;
   display: block;
   margin: 10px 0 0;
 }
@@ -1020,7 +1022,7 @@ button:hover {
   margin-top: 20px;
 }
 .tabs.tabs-blue .nav-tabs li a {
-  background: #0186d5;
+  background: #EA3828;
 }
 .tabs.tabs-blue .nav-tabs li a:hover {
   background: #fe824c;
@@ -1029,7 +1031,7 @@ button:hover {
   background: #fe824c;
 }
 .tabs.tabs-orrange .nav-tabs li a:hover {
-  background: #0186d5;
+  background: #EA3828;
 }
 .tabs .nav-tabs {
   border: none;
@@ -1103,10 +1105,10 @@ button:hover {
   color: #fff;
 }
 .pagination.pagination-blue li a:hover {
-  background: #0186d5;
+  background: #EA3828;
 }
 .pagination.pagination-blue li.active a {
-  background: #0186d5;
+  background: #EA3828;
 }
 .pagination.pagination-orrange li a:hover {
   background: #fe824c;
@@ -1277,7 +1279,7 @@ button:hover {
   color: #fff;
   display: inline-block;
   line-height: 48px;
-  background: #0186d5;
+  background: #EA3828;
   padding: 0 25px;
   text-transform: uppercase;
 }
@@ -1547,7 +1549,7 @@ button:hover {
 }
 .appointment_home_form2 .form_inputs input[type="submit"]:hover,
 .appointment_home_form2 .form_inputs input[type="submit"]:focus {
-  background: #0186d5;
+  background: #EA3828;
 }
 .appointment_home_form2 .form_inputs .input_row {
   background: #57beee;
@@ -1705,7 +1707,7 @@ button:hover {
   content: '';
   width: 85px;
   height: 1px;
-  background: #0186d5;
+  background: #EA3828;
   display: block;
   margin: 10px 0 0;
 }
@@ -1947,7 +1949,7 @@ footer .newsletterForm input + input {
   margin-top: 10px;
 }
 footer .newsletterForm input[type="submit"] {
-  background: #0186d5;
+  background: #EA3828;
   margin-top: 20px;
   text-align: center;
   text-transform: uppercase;
@@ -2110,7 +2112,7 @@ footer .footer_bottom .copyright a {
   padding-right: 40px;
 }
 .testimonial_section .testimonial_slider .testi_content .inner .postText {
-  background: #0186d5;
+  background: #EA3828;
   font-size: 21px;
   font-family: 'Lato', sans-serif;
   font-style: italic;
@@ -2131,12 +2133,12 @@ footer .footer_bottom .copyright a {
   background: #9fadbd;
 }
 .testimonial_section .testimonial_slider .flex-control-nav li a.flex-active {
-  background: #0186d5;
+  background: #EA3828;
 }
 /*----------------------------------------------------------------*/
 .page_intro.row {
   height: 300px;
-  background: #0186d5;
+  background: #EA3828;
   color: #fff;
   text-align: center;
   text-transform: uppercase;
@@ -2146,7 +2148,7 @@ footer .footer_bottom .copyright a {
 .page_intro.row .container {
   margin-top: 80px;
   /*height: 300px;*/
-  /*background: #0186d5;*/
+  /*background: #EA3828;*/
   /*color: #fff;*/
   /*text-align: center;*/
   /*text-transform: uppercase;*/
@@ -2352,7 +2354,7 @@ footer .footer_bottom .copyright a {
   content: '';
   width: 85px;
   height: 1px;
-  background: #0186d5;
+  background: #EA3828;
   display: block;
   margin: 10px 0 0;
 }
@@ -2394,7 +2396,7 @@ footer .footer_bottom .copyright a {
   color: #fff;
   line-height: 25px;
   padding: 0 20px;
-  background: #0186d5;
+  background: #EA3828;
   display: inline-block;
 }
 .comments .comment .comment_body .reply_btn:hover {
@@ -2463,7 +2465,7 @@ footer .footer_bottom .copyright a {
   margin-top: 20px;
   padding: 0 55px;
   line-height: 55px;
-  background: #0186d5;
+  background: #EA3828;
   font-family: 'Karla', sans-serif;
   font-size: 16px;
   color: #fff;
@@ -2603,7 +2605,7 @@ footer .footer_bottom .copyright a {
   margin-top: 35px;
   padding: 0 25px;
   line-height: 50px;
-  background: #0186d5;
+  background: #EA3828;
   font-family: 'Lato', sans-serif;
   font-weight: bold;
   font-size: 14px;
@@ -2759,7 +2761,7 @@ footer .footer_bottom .copyright a {
   content: '';
   width: 80px;
   height: 1px;
-  background: #0186d5;
+  background: #EA3828;
   display: block;
   margin: 20px 0 0;
 }
@@ -2832,7 +2834,7 @@ footer .footer_bottom .copyright a {
 .timeTable tbody tr td.rehabilitation,
 .timeTable tbody tr td.nurology,
 .timeTable tbody tr td.dental {
-  background: #0186d5;
+  background: #EA3828;
 }
 .timeTable tbody tr td.cardiac {
   background: #fe824c;
@@ -3032,7 +3034,7 @@ footer .footer_bottom .copyright a {
     content: '';
     width: 85px;
     height: 1px;
-    background: #0186d5;
+    background: #EA3828;
     display: block;
     margin: 13px 0 0;
 }
